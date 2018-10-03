@@ -1,2 +1,4 @@
 class Person
-end 
+  def method_one
+  end 
+end
